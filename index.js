@@ -8,4 +8,3 @@ var image1 = document.querySelector("img1");
 // Set the src attribute to the random dice image
 image1.setAttribute("src", randomImageSource);
 
-var randomNumber2 = Math.floor(Math.random() * 6) + 1;
